@@ -13,4 +13,4 @@ Finalist for the **Aula Inetum - Universidad de Deusto Thesis Awards**, among th
 - Developed a web application to monitor measurements and extract relevant temporal data.  
 - Simulated a system of several bikes for scalability.  
 
-[LinkedIn post](#)
+[LinkedIn post](https://www.linkedin.com/posts/pabloherreroortiz_muy-orgulloso-de-anunciar-que-he-sido-ugcPost-7398816054216491008-7o27?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECupl4BC95KqRREchm8G8A44oxkbUUr4mI)
