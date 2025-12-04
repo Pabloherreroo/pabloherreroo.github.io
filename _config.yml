@@ -4,18 +4,18 @@ email: pablo.herrort@gmail.com
 timezone: Europe/Amsterdam
 description: "Digital Portfolio of Pablo Herrero Ortiz"
 
+author:
+  github: pabloherreroo 
+  linkedin: pabloherreroortiz
+
 remote_theme: "yousinix/portfolYOU"
 
-baseurl: "" 
 url: "https://pabloherrero.github.io" 
+baseurl: "" 
 
 markdown: kramdown
-permalink: /:title/
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - vendor/
-  - README.md
-  - LICENSE
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
