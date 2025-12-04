@@ -1,6 +1,6 @@
 - name: Microsoft Office (Word, Excel, PowerPoint) 
   percentage: 90
-  color: danger
+  color: success
 
 - name: Adobe Photoshop & Illustrator
   percentage: 60

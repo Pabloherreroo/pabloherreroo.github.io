@@ -4,7 +4,7 @@
 
 - name: English
   percentage: 95
-  color: warning
+  color: info
 
 - name: French
   percentage: 70
@@ -12,4 +12,4 @@
 
 - name: Chinese
   percentage: 25
-  color: secondary
+  color: warning

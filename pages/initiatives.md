@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Initiatives and Achievements
-permalink: /initiatives/
-weight: 3
+permalink: /blog/
+weight: 2
 ---
 
 {% include blog/search.html %}

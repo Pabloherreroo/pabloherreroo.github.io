@@ -2,12 +2,12 @@
 layout: page
 title: About
 permalink: /about/
-weight: 1
+weight: 3
 ---
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+:wave: Hi, I am **{{ site.author.name }}**,<br>
 
 I started my academic journey with a **dual Bachelor's degree in Industrial Electronics and Automation + Computer Engineering** at the **University of Deusto** in Bilbao, Spain, and I am currently pursuing an **MSc in Artificial Intelligence & Engineering Systems** at the **Eindhoven University of Technology**, in the Netherlands.  
 
@@ -22,16 +22,22 @@ If you happen to like this page and want to connect, feel free to reach out! Iâ€
 <div class="row">
 {% include about/skills.html title="Software Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Engineering Skills" source=site.data.engineering-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-
-{% include about/skills.html title="Language Skills" source=site.data.language-skills %}
 
 <div class="row">
-  <div class="col-lg-6 col-md-12 mb-4">
-    {% include about/timeline.html %}
-  </div>
-  <div class="col-lg-6 col-md-12 mb-4">
-    {% include about/timeline.html %}
-  </div>
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Language Skills" source=site.data.language-skills %}
 </div>
+
+<div class="row">
+    {% include about/timeline.html %}
+</div>
+
+<!-- <div class="row">
+  <div class="col-lg-6 col-md-12 mb-4">
+    {% include about/timeline.html %}
+  </div>
+  <div class="col-lg-6 col-md-12 mb-4">
+    {% include about/timeline.html %}
+  </div>
+</div> -->
