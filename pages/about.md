@@ -5,6 +5,11 @@ permalink: /about/
 weight: 5
 ---
 
+<img src="{{ site.author.image }}" 
+     alt="{{ site.author.name }}" 
+     class="circle-image float-right ml-3 mb-2" 
+     style="width:150px;">
+  
 # **About Me**
 
 :wave: Hi, I am **{{ site.author.name }}**,<br>
@@ -17,7 +22,8 @@ What truly excites me is the **application of emerging technologies in industria
 
 I am a naturally **curious** person with interests of all kinds, and I enjoy exploring new ideas and learning continuously. Outside of work and study, I love **sports** such as basketball and tennis, traveling, exploring different cultures, and expanding my knowledge of **history and geography**, always trying to understand the world a little better.  
 
-If you happen to like this page and want to connect, feel free to reach out! I’d be happy to chat about any projects or ideas :) 
+If you happen to like this page and want to connect, feel free to reach out! I’d be happy to chat about any projects or ideas :)
+
 
 <!-- <div class="row">
 {% include about/skills.html title="Software Skills" source=site.data.programming-skills %}
