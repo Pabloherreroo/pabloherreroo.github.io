@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 5
 ---
 
 # **About Me**
@@ -19,7 +19,7 @@ I am a naturally **curious** person with interests of all kinds, and I enjoy exp
 
 If you happen to like this page and want to connect, feel free to reach out! Iâ€™d be happy to chat about any projects or ideas :) 
 
-<div class="row">
+<!-- <div class="row">
 {% include about/skills.html title="Software Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Engineering Skills" source=site.data.engineering-skills %}
 </div>
@@ -27,11 +27,11 @@ If you happen to like this page and want to connect, feel free to reach out! Iâ€
 <div class="row">
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 {% include about/skills.html title="Language Skills" source=site.data.language-skills %}
-</div>
+</div> -->
 
-<div class="row">
+<!-- <div class="row">
     {% include about/timeline.html %}
-</div>
+</div> -->
 
 <!-- <div class="row">
   <div class="col-lg-6 col-md-12 mb-4">
