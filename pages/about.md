@@ -5,7 +5,7 @@ permalink: /about/
 weight: 5
 ---
 
-<img src="{{ site.author.image }}" 
+<img src="{{ site.author.image | '/assets/me.JPG' }}" 
      alt="{{ site.author.name }}" 
      class="circle-image float-right ml-3 mb-2" 
      style="width:150px;">
