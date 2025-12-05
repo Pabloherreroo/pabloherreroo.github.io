@@ -14,13 +14,13 @@ weight: 5
 
 :wave: Hi, I am **{{ site.author.name }}**,<br>
 
-I started my academic journey with a **dual Bachelor's degree in Industrial Electronics and Automation + Computer Engineering** at the **University of Deusto** in Bilbao, Spain, and I am currently pursuing an **MSc in Artificial Intelligence & Engineering Systems** at the **Eindhoven University of Technology**, in the Netherlands.  
+I was born in October 2003 in Burgos, Spain, where I grew up. My university journey began at age 16, with a **dual Bachelor's degree in Industrial Electronics and Automation + Computer Engineering** at the **University of Deusto** in Bilbao. Immediately after graduating in 2025, I came to the Netherlands to pursue an **MSc in Artificial Intelligence & Engineering Systems** at the **Eindhoven University of Technology**, where I am based now.
 
 All my professional experience has been carried out alongside my studies, and I am deeply grateful for the opportunities I’ve had to work on impactful projects and internships. These experiences have shaped my curiosity and drive to grow in diverse branches of engineering, as well as continuing to learn about AI.  
 
-What truly excites me is the **application of emerging technologies in industrial and real-world environments**, and I hope to contribute to meaningful change by being at the forefront of this wave of innovation. Topics such as Edge AI, Industrial Automation, Robotics, Embedded Systems, and even some of their use cases in sectors as distant as medicine and finance are of particular interest to me.
+What truly excites me is the **application of emerging technologies in industrial and real-world environments**, and I hope to contribute to meaningful change by being at the forefront of this upcoming innovation wave. Topics such as Edge AI, Industrial Automation, Robotics, Embedded Systems, and even some of AI (or high-tech) use cases in sectors as distant as medicine and finance are of particular interest to me.
 
-I am a naturally **curious** person with interests of all kinds, and I enjoy exploring new ideas and learning continuously. Outside of work and study, I love **sports** such as basketball and tennis, traveling, exploring different cultures, and expanding my knowledge of **history and geography**, always trying to understand the world a little better.  
+I am a naturally **curious** person with interests of all kinds, and I enjoy exploring new ideas and learning continuously. Outside of work and study I love to be very active, playing **sports** such as basketball and tennis, traveling, exploring different cultures and expanding my knowledge of **history and geography**, always trying to understand the world a little better.  
 
 If you happen to like this page and want to connect, feel free to reach out! I’d be happy to chat about any projects or ideas :)
 
