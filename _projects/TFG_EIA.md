@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Embedded System for Sensorizing and Monitoring e-Bikes
+tools: [Raspberry Pi, Sensors, Electronics, 3D Printing, Fusion 360 CAD]
+image: /assets/ebike.jpg
+description: Designed a portable and replicable embedded system for sensorizing e-bikes, including Raspberry Pi software and 3D models designed to integrate the hardware into the vehicle. This was my Industrial Electronics and Automation Engineering Bachelor Thesis.
+external_url: https://github.com/Pabloherreroo/EIA-PFG_bike_sensores
 ---
