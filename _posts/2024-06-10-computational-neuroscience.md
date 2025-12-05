@@ -12,3 +12,9 @@ description: Explored computational neuroscience and mathematical models behind 
 - Studied mathematical models behind neuronal dynamics and gained understanding of complex biological concepts.
 
 [Link to the course](https://www.edx.org/learn/neuroscience/ecole-polytechnique-federale-de-lausanne-computational-neuroscience-neuronal-dynamics-of-cognition)
+
+<div class="initiative-images">
+
+  <img src="/assets/EPFL.jpg" alt="Award image">
+
+</div>

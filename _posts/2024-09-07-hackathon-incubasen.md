@@ -13,3 +13,11 @@ description: Participated in an interdisciplinary hackathon for neurological sta
 - Designed **Ludaro**, an app using gamification based on expert knowledge in the field.
 
 [LinkedIn post](https://www.linkedin.com/posts/pabloherreroortiz_hace-unos-d%C3%ADas-tuve-la-posibilidad-de-participar-activity-7239271147811311618-MuoC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECupl4BC95KqRREchm8G8A44oxkbUUr4mI)
+
+<div class="initiative-images">
+
+  <img src="/assets/SEN.jpg" alt="Award image">
+
+  <img src="/assets/SEN2.jpg" alt="Ceremony image">
+
+</div>

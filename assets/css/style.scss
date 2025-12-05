@@ -1,1 +1,22 @@
+ ---
+ ---
+ 
+.initiative-images {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
 
+.initiative-images img {
+  max-width: 45%;
+  border-radius: 8px;
+  height: auto;
+}
+
+.initiative-images img:only-child {
+  max-width: 50%;
+}
+
+ @import "portfolYOU";
